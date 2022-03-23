@@ -1,0 +1,41 @@
+
+
+#divGalerija 
+     {
+    width:900px;
+    height:800px;
+    border:1px solid gray;
+    border-radius: 10px;
+    margin:100px auto;
+    background-color:powderblue;
+
+    
+
+     }
+
+
+#prikaz 
+
+   {
+       width: 95%;
+       height:82%;
+       border:3px solid black;
+       border-radius: 15px;
+       margin:18px;
+       
+       
+   }
+
+
+
+     .zivotinje {
+
+
+        width:70px;
+        height: 70px;
+        border:1px solid green;
+        border-radius: 10px;
+        margin:7px;
+     }
+
+
